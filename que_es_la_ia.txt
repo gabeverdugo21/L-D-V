@@ -1,0 +1,15 @@
+¿Qué es la inteligencia artificial?
+
+La inteligencia artificial, o IA, es un campo de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Entre esas tareas están reconocer imágenes, entender el lenguaje, tomar decisiones o aprender de la experiencia.
+
+La idea no es nueva. Desde los años cincuenta, los investigadores se preguntan si una máquina puede pensar. Durante mucho tiempo, la mayoría de los programas de IA seguían reglas escritas a mano por personas. Si un programa jugaba al ajedrez, alguien le había enseñado cada regla y cada estrategia posible.
+
+Hoy, la forma más extendida de IA es el aprendizaje automático. En lugar de programar cada regla, se le da a un sistema una enorme cantidad de ejemplos y se le deja ajustar sus propios parámetros hasta que aprende a reconocer patrones. Por ejemplo, si se le muestran millones de fotos etiquetadas como "gato" o "no gato", el sistema termina distinguiendo gatos en imágenes que nunca había visto.
+
+Dentro del aprendizaje automático hay una familia de modelos llamados redes neuronales. Se inspiran de forma muy simplificada en el cerebro: están formadas por capas de unidades de cálculo conectadas entre sí, y cada conexión tiene un peso que se ajusta durante el entrenamiento. Cuando el entrenamiento es muy grande, hablamos de aprendizaje profundo.
+
+Los modelos de lenguaje son un ejemplo reciente y muy visible. Se entrenan para predecir la siguiente palabra en un texto. Esa tarea, repetida miles de millones de veces, les permite escribir, resumir, traducir o responder preguntas. Aunque parezcan entender, funcionan sobre probabilidades y pueden equivocarse con seguridad, así que conviene verificar sus respuestas importantes.
+
+La IA ya está en muchas partes de la vida diaria: los filtros de correo no deseado, las recomendaciones de videos, los asistentes de voz, los traductores automáticos y las herramientas que ayudan a médicos a revisar estudios. Al mismo tiempo, plantea preguntas sobre privacidad, sesgos en los datos, empleo y responsabilidad: quién responde cuando un sistema se equivoca.
+
+En resumen, la inteligencia artificial es una colección de técnicas que permiten a las máquinas aprender a partir de datos. Sus posibilidades son grandes, pero también lo son sus límites, y entender cómo funciona ayuda a usarla con criterio.
