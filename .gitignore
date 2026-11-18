@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
-.DS_Store
-*.log
 *.wav
+*.log
+.DS_Store
+*.app/
+AppIcon.iconset/
